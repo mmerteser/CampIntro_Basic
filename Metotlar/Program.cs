@@ -32,6 +32,10 @@ namespace Metotlar
 
             sepetManager.Ekle2("Armut",12,"Yeşil armut");
 
+
+            List<Product> products1 = new List<Product>();
+
+
             Console.ReadKey();
         }
 
